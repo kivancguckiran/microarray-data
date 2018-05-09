@@ -1,4 +1,4 @@
-# datamicroarray
+# Microarray data
 
 This repository contains microarray datasets in CSV tarballs for MATLAB and Python. This is based on [ramhiser/datamicroarray](https://github.com/ramhiser/datamicroarray). Links below directs you to the regarding repository's wiki page.
 
