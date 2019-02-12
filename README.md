@@ -2,6 +2,14 @@
 
 This repository contains microarray datasets in CSV tarballs for MATLAB and Python. This is based on [ramhiser/datamicroarray](https://github.com/ramhiser/datamicroarray). Links below directs you to the regarding repository's wiki page.
 
+## Download
+
+This code downloads (around 342MB) each of the datasets to your local computer.  Use with caution.
+
+```
+git clone https://github.com/kivancguckiran/microarray-data
+```
+
 ## Data Sets
 
 Each data set is listed below by the first author on the original paper. The data sets are organized them by category; note that most of the data sets are cancer-related. Click a data set to see its description, a link to the original paper, and additional information.
